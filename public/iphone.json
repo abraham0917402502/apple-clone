@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "iphone-16-pro",
+      "product_name": "iPhone 16 Pro",
+      "description_id": 1,
+      "product_brief_description": "Loves to love. Less to spend",
+      "product_description": "Lots to love. Less to spend.",
+      "product_img": "https://www.apple.com/v/iphone/home/bx/images/overview/select/iphone_16pro__erw9alves2qa_medium_2x.png",
+      "product_link": "https://www.apple.com/v/iphone/home/bx/images/overview/select/iphone_16pro__erw9alves2qa_medium_2x.png",
+      "price_id": 1,
+      "starting_price": "Starting at $41.62",
+      "price_range": "From $999 or $41.62/mo. for 24 mo.**"
+    },
+    {
+      "product_id": 5,
+      "product_url": "iPhone14",
+      "product_name": "iPhone14",
+      "description_id": 4,
+      "product_brief_description": "Loves to love. Loves to spend",
+      "product_description": "description about iphone 14",
+      "product_img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-125834/Apple-iPhone-14_FINAL_featured-image-packshot-review.jpg",
+      "product_link": "https://cdn.dxomark.com/wp-content/uploads/medias/post-125834/Apple-iPhone-14_FINAL_featured-image-packshot-review.jpg",
+      "price_id": 5,
+      "starting_price": "$799 USD",
+      "price_range": "128GB model: $799 USD"
+    },
+    {
+      "product_id": 6,
+      "product_url": "iPhone15",
+      "product_name": "iPhone15",
+      "description_id": 5,
+      "product_brief_description": "Loves to love. Loves to spend",
+      "product_description": "description about iphone 15",
+      "product_img": "https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/tile/Apple-iPhone-15-Pro-lineup-hero-230912.jpg.landing-big_2x.jpg",
+      "product_link": "https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/tile/Apple-iPhone-15-Pro-lineup-hero-230912.jpg.landing-big_2x.jpg",
+      "price_id": 6,
+      "starting_price": " $799 for the base 128GB model",
+      "price_range": " (128GB): $799 USD"
+    }
+  ]
+}
